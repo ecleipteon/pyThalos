@@ -1,0 +1,8 @@
+setup.py
+pyThalos/__init__.py
+pyThalos/__main__.py
+pyThalos/user.py
+pyThalos.egg-info/PKG-INFO
+pyThalos.egg-info/SOURCES.txt
+pyThalos.egg-info/dependency_links.txt
+pyThalos.egg-info/top_level.txt
